@@ -1,0 +1,14 @@
+[
+    {
+        "organizationName": "ABC Sdn. Bhd",
+        "numberOfEmployees": 40,
+        "fullTimeTrainers": 20,
+        "partTimeTrainers": 20
+    },
+    {
+        "organizationName": "DEF Sdn. Bhd",
+        "numberOfEmployees": 60,
+        "fullTimeTrainers": 30,
+        "partTimeTrainers": 30
+    }
+]

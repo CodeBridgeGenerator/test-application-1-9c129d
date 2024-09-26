@@ -1,0 +1,20 @@
+[
+    {
+        "trainerIcNo": 87212981234,
+        "organizationName": "ABC Sdn. Bhd",
+        "employmentType": "Freelance",
+        "nationality": "Malaysian"
+    },
+    {
+        "trainerIcNo": "980814128762",
+        "organizationName": "EFG Sdn. Bhd",
+        "employmentType": "Part-Time",
+        "nationality": "Singaporean"
+    },
+    {
+        "trainerIcNo": "970614129876",
+        "organizationName": "HIJ Sdn. Bhd",
+        "employmentType": "Full-Time",
+        "nationality": "Vietnamese"
+    }
+]

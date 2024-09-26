@@ -1,0 +1,18 @@
+[
+    {
+        "officerName": "Jeremiah Lo",
+        "designation": "System Analyst",
+        "telephoneNumber": "0148765432",
+        "icNumber": "011234231234",
+        "email": "jeremiahlo@gmail.com",
+        "organizationName": "ABC Sdn. Bhd"
+    },
+    {
+        "officerName": "Carmen Chong",
+        "designation": "Senior Programmer",
+        "telephoneNumber": "0123452342",
+        "icNumber": "9887651234",
+        "email": "carmen@gmail.com",
+        "organizationName": "DEF Sdn. Bhd"
+    }
+]
